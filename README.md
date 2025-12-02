@@ -67,6 +67,15 @@ Terraform is one of the most widely used IaC tools. It enables you to:
 * Manage infra state using terraform.tfstate
 * Ensure predictable deployments using modules and workspaces.
 
+## *Terraform – Recommended Certifications*
+
+### 1. **HashiCorp Certified: Terraform Associate**
+### [https://www.hashicorp.com/certification/terraform-associate ↗](https://www.hashicorp.com/certification/terraform-associate)
+
+ ###  2. **Udacity Cloud DevOps Engineer Nanodegree (Terraform Included)**
+
+### [https://www.udacity.com/course/cloud-devops-nanodegree--nd9991 ↗](https://www.udacity.com/course/cloud-devops-nanodegree--nd9991)
+
 
 $$
 {\Huge
@@ -114,6 +123,12 @@ Pulumi Registry: large ecosystem of official providers and reusable infrastructu
 * Pulumi is ideal when you want IaC + full programming flexibility.
 
 
+### *Pulumi – Recommended Certifications*
+
+### **Pulumi does not currently offer official exams, but recognized training programs exist.**
+
+ ###  1. Pulumi Cloud Engineering Certification (Unofficial, Pulumi University Track)
+[https://www.pulumi.com/learn ↗](https://www.pulumi.com/learn)
 $$
 {\Huge
 \boldsymbol{
