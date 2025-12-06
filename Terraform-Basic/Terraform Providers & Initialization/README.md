@@ -2,10 +2,6 @@
 
 **Defination:** Terraform relies on plugins called providers to interact with cloud providers, SaaS providers, and other APIs.
 
-# **Terraform Providers & Initialization**
-
-**Defination:** Terraform relies on plugins called providers to interact with cloud providers, SaaS providers, and other APIs.
-
 **Explanation:** Terraform uses providers to interact with cloud platforms and services like AWS, Azure, GCP, Kubernetes, etc.
 
 A provider acts as a bridge between Terraform and the target cloud API.
