@@ -197,4 +197,4 @@ Terraform interacts with cloud providers, SaaS providers, and other APIs using p
 
 Terraform configurations must specify which providers are required so that Terraform may install and utilize them.  In addition, some providers require setup (such as endpoint URLs or cloud regions) before they may be utilized.
 
-[Terraform Providers & Initialization](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/f6a92c0f3a7b818887f79a27eb9085ee179ed4da/Terraform-Basic/Terraform%20Providers%20%26%20Initialization)
+[Terraform Providers & Initialization](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/936ed2b85c4e46004af795cdbd97af994a8d1b61/Terraform-Basic/Terraform%20Providers%20%26%20Initialization)
