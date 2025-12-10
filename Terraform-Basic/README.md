@@ -282,3 +282,4 @@ Click [here setup AWS for Terraform](https://github.com/Pranith1Kumar/IaC-powerh
 # *Terraform Tasks*
 
 1. TFinfra-1 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/bf3aff5b4c3bbfdd3888a51e0542dcde28981cfc/Terraform-Basic/TFinfra-tasks/TFinfra-1)
+2. TFinfra-2 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/50a128bd3f07d1865af8c3b0631b5c92711d80ae/Terraform-Basic/TFinfra-tasks/TFinfra-2)
