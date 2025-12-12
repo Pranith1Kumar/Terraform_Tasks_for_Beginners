@@ -24,11 +24,11 @@ This is a simple and powerful way to scale infrastructure without repeating code
 
 **Use Terraform Normally**
 
-    ```bash
-    terraform init
-    terraform plan
-    terraform apply
-    ```
+```bash
+terraform init
+terraform plan
+terraform apply
+```
 
 $$
 {\Huge
