@@ -285,10 +285,10 @@ Click [here setup AWS for Terraform](https://github.com/Pranith1Kumar/IaC-powerh
 
 # *Terraform Tasks*
 
-1. TFinfra-1 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2a060a6acf4eafd05ebec15686e0255868962557/Terraform-Basic/TFinfra-tasks/TFinfra-1)
-2. TFinfra-2 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2a060a6acf4eafd05ebec15686e0255868962557/Terraform-Basic/TFinfra-tasks/TFinfra-2)
-3. TFinfra-3 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/908ec9abd21a73ef7bacc425b3b759a3fa3038ff/Terraform-Basic/TFinfra-tasks/TFinfra-3)
-4. TFinfra-4 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/81f4f3af505a0f76f614b70a544164b055c6f34b/Terraform-Basic/TFinfra-tasks/TFinfra-4)
+1. TFinfra-1 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2e4aa7774d1ad19f9874fe7139f582bceda1ecae/Terraform-Basic/TFinfra-tasks/TFinfra-1)
+2. TFinfra-2 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2e4aa7774d1ad19f9874fe7139f582bceda1ecae/Terraform-Basic/TFinfra-tasks/TFinfra-2)
+3. TFinfra-3 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2e4aa7774d1ad19f9874fe7139f582bceda1ecae/Terraform-Basic/TFinfra-tasks/TFinfra-3)
+4. TFinfra-4 [Check the task details here](https://github.com/Pranith1Kumar/IaC-powerhouse/tree/2e4aa7774d1ad19f9874fe7139f582bceda1ecae/Terraform-Basic/TFinfra-tasks/TFinfra-4)
 
 
 # *Terraform State* [↗](https://developer.hashicorp.com/terraform/language/state)
